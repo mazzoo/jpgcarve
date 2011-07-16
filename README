@@ -1,0 +1,12 @@
+jpegcarve
+~~~~~~~~~
+
+finds and dumps JPEG files in large blobs.
+
+usage  : jpgscarf file
+example: jpgscarf /dev/sda
+
+
+licensed under GPL version 2
+(c) 2011 by Matthias "mazzoo" Wenzel
+
