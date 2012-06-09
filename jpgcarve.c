@@ -87,7 +87,7 @@ int main(int argc, char ** argv)
 			}
 			writing = i;
 
-			printf("new jpeg at %ld\n", i);
+			printf("new jpeg at %lld\n", i);
 
 			snprintf(fname, FILENAME_MAX, "carve_%8.8x.jpg", fcount);
 			printf("writing %s\n", fname);
